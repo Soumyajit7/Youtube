@@ -12,7 +12,7 @@ class PrimeNumber {
     	    	count ++ ;
     	    }
         }
-        if (count <= 2){
+        if (count == 2){
     	    System.out.println("prime number");
         }else{
     	    System.out.println("not prime number");
